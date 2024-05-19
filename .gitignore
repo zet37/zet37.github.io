@@ -24,3 +24,7 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+
+_posts/.placeholder
+_posts/template.txt
+run.sh
