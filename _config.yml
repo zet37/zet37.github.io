@@ -38,11 +38,12 @@ social:
   email: rayyanramanda@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/rayyanramanda
     - https://github.com/zet37 # change to your github homepage
     - https://twitter.com/ # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/
-    # - https://www.linkedin.com/in/rayyanramanda
+    
 
 # Site Verification Settings
 webmaster_verifications:
@@ -96,7 +97,7 @@ theme_mode: # dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/97180703?s=400&u=28ec88aee19c4948e8167db6da827a657b941f92&v=4
+avatar: assets/zet37avatar.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

@@ -1,6 +1,6 @@
 ---
-title : Hello
-date : 2024-05-19 03.00 +700 #dd-mm-yy hour timezone (+7 GMT)
+title : Hello world
+date : 2024-05-19 03.00 -500 #dd-mm-yy hour timezone (+7 GMT)
 categories : [writeup,blablactf 2024]
 tags : [web,ssti,xss]
 ---
