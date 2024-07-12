@@ -1,8 +1,9 @@
 ---
 title : 'Hacktrace-Ranges: Access [Write-up]'
-date : 2024-05-20 18.25 +0700           #DD-MM-YY hour timezone (+7 GMT)
+date : 2024-05-20 18:25:00 +0700           #DD-MM-YY hour timezone (+7 GMT)
 categories : [Hacktrace-Ranges, Offensive]
-tags : [machine,pluck,cve-2020-29607,password cracking,wget]
+tags : [machine]
+# tags : [machine,pluck,cve-2020-29607,password cracking,wget]
 # author: 1                             # for single entry
 ---
 
