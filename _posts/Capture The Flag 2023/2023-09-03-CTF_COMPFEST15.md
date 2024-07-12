@@ -21,6 +21,15 @@ Saya mengikuti ctf compfest 2023 bersama 2 orang teman saya di tim `YAHAHAHAHA`.
 | artificial secret                         | Misc     | 356 pts| COMPFEST15{d0nT_STOR3_S3CrET_On_Pr0MP7_874131ddff}                                    |
 | Feedback                                  | Misc     | 25 pts | COMPFEST15{makasih_mas_mbak_udah_ngisi_form_tahun_depan_ikut_lagi_ya_mantap}          |
 
+### classroom [100 pts]
+to be added
+
+### Not A CIA Test [100 pts]
+to be added
+
+### Panic HR [100 pts]
+to be added
+
 ### napi [316 pts]
 - Description: john is currently planning an escape from jail. Fortunately, he got a snippet of the jail source code from his cellmate. Can you help john to escape?
 - nc 34.101.122.7 10008
